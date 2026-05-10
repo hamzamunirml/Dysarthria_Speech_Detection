@@ -1,5 +1,8 @@
 # 🗣️ Dysarthria Speech Detection using Deep Learning
 
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/fa9c2c37-3ab6-4407-884c-3c8925e7c06b" />
+
+
 ##  Project Overview
 This project focuses on detecting Dysarthric Speech using Deep Learning and Speech Processing techniques. The model is trained on speech audio recordings and classifies whether the speech belongs to a Dysarthric speaker or a Normal (Control) speaker.
 
@@ -57,6 +60,8 @@ The following visualizations and analyses were performed:
 - Feature distribution plots
 - Correlation analysis
 - Training vs Validation accuracy/loss graphs
+
+📁 Graphs and plots are stored in the `graphs/` folder.
 
 
 ---
